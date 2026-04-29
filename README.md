@@ -51,7 +51,7 @@ Minha estratégia será:
 - [x] README principal criado
 - [x] Ambiente em organização
 - [x] Apache Hop incluído no plano
-- [ ] Primeiro fluxo simples salvo
+- [x] Primeiro fluxo simples salvo
 - [ ] Primeiro projeto completo de análise
 
 ## Observação
