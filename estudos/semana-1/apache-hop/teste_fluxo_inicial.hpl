@@ -21,13 +21,13 @@
   </notepads>
   <order>
     <hop>
-      <from>Data grid</from>
-      <to>Dummy (do nothing)</to>
+      <from>dados_teste</from>
+      <to>fim_teste</to>
       <enabled>Y</enabled>
     </hop>
   </order>
   <transform>
-    <name>Data grid</name>
+    <name>dados_teste</name>
     <type>DataGrid</type>
     <description/>
     <distribute>Y</distribute>
@@ -82,7 +82,7 @@
     </GUI>
   </transform>
   <transform>
-    <name>Dummy (do nothing)</name>
+    <name>fim_teste</name>
     <type>Dummy</type>
     <description/>
     <distribute>Y</distribute>
