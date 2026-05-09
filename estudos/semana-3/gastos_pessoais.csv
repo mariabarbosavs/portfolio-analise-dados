@@ -1,0 +1,122 @@
+﻿id_lancamento,data,descricao,categoria,valor,forma_pagamento,cidade,parcelado,observacao
+1,2026-04-01,Energia,Casa,228.93,Cartão de Débito,Trindade,Sim,
+2,2026-04-19,Energia,Casa,141.03,Pix,Goiânia,Sim,
+3,2026-04-18,Cinema,Lazer,39.83,Dinheiro,Trindade,Não,valor estimado
+4,2026-04-25,Curso online,Educação,285.92,Dinheiro,Aparecida de Goiânia,Não,
+5,2026-04-04,Combustível,Transporte,14.76,Pix,Aparecida de Goiânia,Não,valor estimado
+6,2026-04-24,Curso online,Educação,171.61,Pix,Nazário,Sim,valor estimado
+7,2026-04-19,Material de estudo,Educação,83.46,Pix,Goiânia,Sim,
+8,2026-04-28,Padaria,Alimentação,25.37,Cartão de Crédito,Nazário,Não,
+9,2026-04-07,Material de estudo,,241.16,Pix,Trindade,Sim,
+10,2026-04-09,Vitaminas,Saúde,247.54,Cartão de Débito,Aparecida de Goiânia,Sim,
+11,2026-04-26,Spotify,Assinaturas,31.4,Cartão de Crédito,Goiânia,Sim,valor estimado
+12,2026-04-07,Água,Casa,205.25,Dinheiro,Nazário,Sim,
+13,2026-04-24,Uber,Transporte,69.12,Cartão de Crédito,Nazário,Não,
+14,2026-04-17,Uber,Transporte,61.25,Pix,Goiânia,Sim,
+15,2026-04-20,Canva,Assinaturas,13.51,Dinheiro,Nazário,Não,valor estimado
+16,2026-04-22,Spotify,Assinaturas,60.17,Cartão de Crédito,Aparecida de Goiânia,Sim,
+17,2026-04-15,Consulta,Saúde,15.76,Cartão de Crédito,Trindade,Sim,
+18,2026-04-05,Netflix,Assinaturas,,Cartão de Débito,Goiânia,Não,revisar
+19,2026-04-30,Mercado,Alimentação,70.43,Cartão de Crédito,Trindade,Sim,
+20,2026-04-03,Cinema,Lazer,119.79,Pix,Trindade,Sim,revisar
+21,2026-04-09,Sorveteria,Lazer,89.15,Dinheiro,Trindade,Sim,
+22,2026-04-15,Exame,Saúde,226.41,Dinheiro,Goiânia,Sim,
+23,2026-04-01,Almoço,Alimentação,109.19,Cartão de Débito,Trindade,Sim,
+24,2026-04-08,Energia,Casa,43.54,Pix,Aparecida de Goiânia,Sim,valor estimado
+25,2026-04-22,Combustível,Transporte,60.31,Cartão de Débito,Nazário,Sim,revisar
+26,2026-04-07,Canva,Assinaturas,15.7,Dinheiro,Aparecida de Goiânia,Não,revisar
+27,2026-04-22,Farmácia,Saúde,168.56,Pix,Goiânia,Não,
+28,2026-04-08,Spotify,Assinaturas,22.6,Dinheiro,Trindade,Não,
+29,2026-04-08,Mentoria,Educação,308.58,Pix,Nazário,Sim,
+30,2026-04-03,Energia,Casa,279.75,Cartão de Débito,Trindade,Não,revisar
+31,2026-04-28,Consulta,Saúde,109.24,Pix,Trindade,Não,
+32,2026-04-30,Exame,Saúde,199.26,Dinheiro,Aparecida de Goiânia,Não,valor estimado
+33,2026-04-05,Produto de limpeza,Casa,77.22,Cartão de Débito,Goiânia,Sim,
+34,2026-04-19,Mercado,Alimentação,90.01,Cartão de Débito,Goiânia,Sim,
+35,2026-04-03,Hortifruti,Alimentação,124.14,,Nazário,Sim,valor estimado
+36,2026-04-20,Ônibus,Transporte,13.51,Cartão de Crédito,Aparecida de Goiânia,Sim,
+37,2026-04-13,Combustível,Transporte,19.18,Cartão de Crédito,Nazário,Não,
+38,2026-04-20,Lanche,Alimentação,179.73,Pix,Goiânia,Sim,valor estimado
+39,2026-04-30,Livro,Educação,135.17,Pix,Trindade,Não,
+40,2026-04-27,Estacionamento,Transporte,67.01,Cartão de Crédito,Goiânia,Não,
+41,2026-04-04,Combustível,Transporte,107.21,Cartão de Débito,Aparecida de Goiânia,Não,valor estimado
+42,2026-04-07,Combustível,Transporte,83.75,Cartão de Crédito,Nazário,Não,
+43,2026-04-27,Lanche,Alimentação,55.59,Pix,Aparecida de Goiânia,Sim,
+44,2026-04-18,Estacionamento,Transporte,85.86,Pix,Goiânia,Sim,
+45,2026-04-27,Cinema,Lazer,65.38,Cartão de Débito,Nazário,Sim,
+46,2026-04-29,Material de estudo,Educação,327.92,Pix,Aparecida de Goiânia,Sim,
+47,2026-04-12,Energia,Casa,239.53,Dinheiro,Trindade,Sim,
+48,2026-04-29,Netflix,Assinaturas,38.27,Cartão de Débito,Aparecida de Goiânia,Não,
+49,2026-04-26,Livro,Educação,251.42,Dinheiro,Goiânia,Não,
+50,2026-04-12,Estacionamento,Transporte,39.4,Cartão de Débito,Trindade,Sim,
+51,2026-04-09,Exame,Saúde,218.12,Cartão de Crédito,Aparecida de Goiânia,Não,valor estimado
+52,2026-04-04,mercado,Educação,309.42,Cartão de Crédito,Trindade,Não,
+53,2026-04-14,Hortifruti,Alimentação,67.46,Cartão de Crédito,Nazário,Sim,revisar
+54,2026-04-09,Sorveteria,Lazer,16.66,Dinheiro,Goiânia,Sim,
+55,2026-04-22,Farmácia,Saúde,231.38,Cartão de Crédito,Goiânia,Não,valor estimado
+56,2026-04-11,Mentoria,Educação,152.79,Cartão de Crédito,Trindade,Sim,revisar
+57,2026-04-22,Produto de limpeza,Casa,230.74,Cartão de Débito,Aparecida de Goiânia,Não,valor estimado
+58,2026-04-10,Spotify,Assinaturas,29.37,Dinheiro,Aparecida de Goiânia,Não,revisar
+59,2026-04-17,Consulta,Saúde,126.2,Cartão de Débito,Goiânia,Não,valor estimado
+60,2026-04-03,Água,Casa,250.07,Cartão de Débito,Aparecida de Goiânia,Sim,
+61,2026-04-02,Ônibus,Transporte,32.4,Dinheiro,Goiânia,Não,revisar
+62,2026-04-23,Internet,Casa,216.5,Dinheiro,Nazário,Sim,
+63,2026-04-29,Energia,Casa,231.52,Pix,Nazário,Sim,
+64,2026-04-02,Canva,Assinaturas,48.58,Pix,Nazário,Sim,revisar
+65,2026-04-25,Água,Casa,270.14,Dinheiro,Nazário,Sim,revisar
+66,2026-04-25,Exame,Saúde,73.1,Cartão de Crédito,Nazário,Sim,
+67,2026-04-23,Farmácia,Saúde,82.15,Cartão de Crédito,Aparecida de Goiânia,Não,valor estimado
+68,2026-04-05,Padaria,Alimentação,47.78,Cartão de Débito,Trindade,Sim,revisar
+69,2026-04-18,Exame,Saúde,124.49,Pix,Trindade,Não,revisar
+70,2026-04-28,Spotify,Assinaturas,71.53,Dinheiro,Nazário,Sim,
+71,2026-04-28,Mentoria,Educação,314.24,Dinheiro,,Não,
+72,2026-04-16,Mentoria,Educação,29.58,Cartão de Crédito,Nazário,Sim,revisar
+73,2026-04-30,Ônibus,Transporte,49.71,Pix,Goiânia,Não,
+74,2026-04-06,Canva,Assinaturas,12.57,Dinheiro,Aparecida de Goiânia,Sim,revisar
+75,2026-04-25,Material de estudo,Educação,310.28,Cartão de Crédito,Nazário,Não,
+76,2026-04-24,Farmácia,Saúde,141.76,Cartão de Crédito,Trindade,Sim,
+77,2026-04-08,Spotify,Assinaturas,23.15,Pix,Trindade,Sim,
+78,2026-04-19,Farmácia,Saúde,237.72,Dinheiro,Aparecida de Goiânia,Não,
+79,2026-04-25,Cinema,Lazer,132.9,Cartão de Crédito,Goiânia,Sim,
+80,2026-04-13,Streaming extra,Lazer,151.22,Cartão de Débito,Goiânia,Sim,
+81,2026-04-28,Água,Casa,213.17,Pix,Goiânia,Não,valor estimado
+82,2026-04-03,Exame,Saúde,133.9,Cartão de Crédito,Goiânia,Não,revisar
+83,2026-04-12,Lanche,Alimentação,117.32,Dinheiro,Trindade,Não,
+84,2026-04-20,Água,Casa,247.25,Dinheiro,Nazário,Não,valor estimado
+85,2026-04-28,Material de estudo,Educação,101.01,Pix,Aparecida de Goiânia,Não,
+86,2026-04-19,Canva,Assinaturas,52.33,Dinheiro,Aparecida de Goiânia,Sim,revisar
+87,2026-04-06,Google Drive,Assinaturas,43.62,Cartão de Crédito,Aparecida de Goiânia,Não,
+88,2026-04-18,Passeio,Lazer,11.52,Cartão de Débito,Goiânia,Sim,revisar
+89,2026-04-23,Consulta,Saúde,126.88,Dinheiro,Nazário,Sim,
+90,2026-04-13,Livro,Educação,248.29,Cartão de Crédito,Aparecida de Goiânia,Não,valor estimado
+91,2026-04-14,Passeio,Lazer,159.49,Cartão de Crédito,Aparecida de Goiânia,Não,
+92,2026-04-08,Material de estudo,Educação,59.82,Cartão de Débito,Aparecida de Goiânia,Sim,valor estimado
+93,2026-04-07,Netflix,Assinaturas,24.36,Dinheiro,Aparecida de Goiânia,Não,
+94,2026-04-10,Netflix,Assinaturas,25.15,Cartão de Débito,Aparecida de Goiânia,Sim,valor estimado
+95,2026-04-02,Combustível,Transporte,117.02,Cartão de Crédito,Trindade,Não,
+96,2026-04-19,Spotify,Assinaturas,29.19,Dinheiro,Nazário,Não,
+97,2026-04-28,Almoço,Alimentação,90.17,Pix,Nazário,Não,
+98,2026-04-05,Cinema,Lazer,32.38,Cartão de Crédito,Goiânia,Sim,
+99,2026-04-20,Streaming extra,Lazer,99.42,Cartão de Débito,Nazário,Não,revisar
+100,2026-04-10,Mentoria,Educação,207.65,Pix,Goiânia,Sim,
+101,2026-04-06,Curso online,Educação,99.16,Pix,Trindade,Sim,revisar
+102,2026-04-10,Vitaminas,Saúde,22.67,Cartão de Crédito,Aparecida de Goiânia,Não,
+103,2026-04-30,Internet,Casa,97.75,Cartão de Débito,Nazário,Sim,valor estimado
+104,2026-04-30,Uber,Transporte,34.81,Cartão de Débito,Goiânia,Sim,
+105,2026-04-20,Google Drive,Assinaturas,62.18,Cartão de Crédito,Nazário,Sim,revisar
+106,2026-04-23,Água,Casa,135.69,Cartão de Crédito,Nazário,Não,
+107,2026-04-29,Cinema,Lazer,74.8,Cartão de Crédito,Aparecida de Goiânia,Sim,
+108,2026-04-25,Ônibus,Transporte,81.98,Cartão de Crédito,Goiânia,Sim,revisar
+109,2026-04-30,Streaming extra,Lazer,51.72,Dinheiro,Nazário,Sim,revisar
+110,2026-04-11,Mentoria,Educação,125.95,Pix,Trindade,Não,revisar
+111,2026-04-10,Produto de limpeza,Casa,207.21,Dinheiro,Goiânia,Não,
+112,2026-04-11,Material de estudo,Educação,58.25,Dinheiro,Goiânia,Não,revisar
+113,2026-04-17,Padaria,Alimentação,70.23,Dinheiro,Nazário,Sim,
+114,2026-04-30,Livro,Educação,115.05,Dinheiro,Goiânia,Sim,valor estimado
+115,2026-04-23,Netflix,Assinaturas,20.24,Pix,Nazário,Sim,
+116,2026-04-15,Spotify,Assinaturas,76.24,Cartão de Débito,Nazário,Não,valor estimado
+117,2026-04-14,Água,Casa,254.55,Dinheiro,Trindade,Não,valor estimado
+118,2026-04-07,Estacionamento,Transporte,110.94,Cartão de Débito,Goiânia,Não,revisar
+119,2026-04-27,Material de estudo,Educação,20.85,Cartão de Crédito,Nazário,Sim,revisar
+120,2026-04-12,Streaming extra,Lazer,59.87,Dinheiro,Nazário,Não,
+21,2026-04-09,Sorveteria,Lazer,89.15,Dinheiro,Trindade,Sim,
